@@ -113,3 +113,18 @@ body{
     color: var(--branco-principal);
 }
 
+.rodape {
+    display: block;
+}
+.rodape__lista {
+    text-align: center;
+    display:inline-flexbox;
+    color: var(--branco-principal);
+    text-decoration: none;
+}
+
+.rodape__texto {
+    color: var(--branco-principal);
+    text-decoration: none;
+    
+}
